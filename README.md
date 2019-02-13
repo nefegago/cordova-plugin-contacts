@@ -950,4 +950,3 @@ The `ContactFieldType` object is an enumeration of possible field types, such as
 - `navigator.contacts.fieldType.streetAddress`
 - `navigator.contacts.fieldType.title`
 - `navigator.contacts.fieldType.urls`
-# cordova-plugin-contacts
